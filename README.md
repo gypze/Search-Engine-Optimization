@@ -5,27 +5,22 @@ The challenge was to refactor the code to meet WCAG guidelines for the purpose o
 
 
 
-
-
 ## 🛠 Key Skills
 
 
+-Learning and practicing HTML, CSS, and JavaScript
 
-Learning and practicing HTML, CSS, and JavaScript
-Gaining experience with React framework
-Developing understanding of responsive web design
-Committed to writing clean and efficient code
-Enthusiastic about problem-solving and continuous learning.
+-Gaining experience with React framework
 
-Eager to collaborate and grow within a team environment
-## 🔗 Links
+-Developing understanding of responsive web design
+
+-Committed to writing clean and efficient code
+
+-Enthusiastic about problem-solving and continuous learning.
+
+-Eager to collaborate and grow within a team environment
 
 
-## Deployment
-
-To deploy this project run
-
-https://gypze.github.io/SEO-Project/
 
 ## Color Reference
 
@@ -38,12 +33,8 @@ color: #ffffff; https://developer.mozilla.org/docs/Web/CSS/background-color colo
 
 ## Demo
 
-Insert gif or link to demo
+![image](https://github.com/gypze/Search-Engine-Optimization/assets/129911891/7a4418df-36c0-4fcc-935c-551a1d59ffe6)
 
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
 
 
 ## Optimizations
@@ -59,8 +50,6 @@ I added alt text next to the all of the image links so that the technology that 
 I organized the ul, li, and a href code removing whitespace so that the code is more organized
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
 
 ## License
 
@@ -73,15 +62,16 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Deployment URL:
+
+
+
 ## Lessons Learned/Challenges
 
 
 Considering the fact that I started with almost no knowlege of what coding was, or how to build a website I think I did pretty well.
-
-I learned how to utilize the world wide web for help. There really are so many resources out there
-
-When I was trying to fix issue with Search Engine Optimization text I couldn't get the css to adapt to the change that I made with the HTML
-
-I learned how to commit, but I could't figure out why my messages didn't show up where I expected them to
-
+I learned how to utilize the world wide web for help. There really are so many resources out there.
+When I was trying to fix issue with Search Engine Optimization text I couldn't get the css to adapt to the change that I made with the HTML.
+I learned how to commit, but I could't figure out why my messages didn't show up where I expected them too.
 Most Impotantly I learned how essential working with a team can be. If it wasn't for the help I received from those in my group, I would not have gotten as far as I did on this project. 
