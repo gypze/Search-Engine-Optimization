@@ -65,7 +65,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 ## Deployment URL:
 
-https://github.com/gypze/Search-Engine-Optimization.git
+https://gypze.github.io/Search-Engine-Optimization/
 
 ## Lessons Learned/Challenges
 
